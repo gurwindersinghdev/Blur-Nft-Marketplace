@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import Image from "next/image";
 import { Eth } from "@web3uikit/icons";
-import styles from "@/styles/Home.module.css";
+import styles from "/styles/Home.module.css";
 
 export default function CollectionPurchaseSection() {
   const [result, setResult] = useState([]);
