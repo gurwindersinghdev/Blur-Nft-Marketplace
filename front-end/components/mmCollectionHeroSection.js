@@ -1,7 +1,7 @@
 
 import { Illustration } from "@web3uikit/core";
 import { Eth } from "@web3uikit/icons";
-import styles from "@/styles/Home.module.css";
+import styles from "/styles/Home.module.css";
 
 export default function MMCollectionHeroSection() {
   return (
