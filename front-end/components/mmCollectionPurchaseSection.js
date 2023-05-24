@@ -12,7 +12,7 @@ import {
   useSigner,
 } from "wagmi";
 import { Eth } from "@web3uikit/icons";
-import styles from "@/styles/Home.module.css";
+import styles from "/styles/Home.module.css";
 
 import { abi, NFTMarketplace_CONTRACT_ADDRESS } from "../contracts/index.js";
 
