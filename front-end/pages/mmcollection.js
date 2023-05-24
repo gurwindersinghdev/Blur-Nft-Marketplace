@@ -1,5 +1,5 @@
 
-import styles from "@/styles/Home.module.css";
+import styles from "/styles/Home.module.css";
 
 import CollectionHeader from "../components/collectionHeader.js";
 import MMCollectionHeroSection from "../components/mmCollectionHeroSection.js";
